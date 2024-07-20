@@ -4,10 +4,11 @@
 
 ![preview](preview.png)
 
-## Files TARS v3_9
+## Files TARS v3_10 - Fix Case Clip
 
-- Case (ABS / PLA): https://fantasydataobj9911.s3.amazonaws.com/1_tars_3_v9-case-final4.step
-- Motor bracket (Steel / Alu): https://fantasydataobj9911.s3.amazonaws.com/tars_3_v9_motor_v3.step
+- DOWNLOAD: https://fastupload.io/9f3621ef4afe07cc
+
+![print](print.png)
 
 ## Software
 
