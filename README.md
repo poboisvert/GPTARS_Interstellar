@@ -6,7 +6,7 @@
 
 ## Files TARS v3_10 - Fix Case Clip
 
-- DOWNLOAD: https://fastupload.io/9f3621ef4afe07cc
+- DOWNLOAD: https://uploadnow.io/f/MPLCGwg | https://fastupload.io/9f3621ef4afe07cc
 
 ![print](print.png)
 
