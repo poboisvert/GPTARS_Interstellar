@@ -4,6 +4,8 @@
 
 - Original article: https://www.hackster.io/charlesdiaz/how-to-build-your-own-replica-of-tars-from-interstellar-224833#comments
 
+- Vercel App: https://docs-tars-ai.vercel.app/build/3d_print
+
 ![preview](preview.png)
 
 ## Files TARS v3_10 - Fix Case Clip
@@ -54,6 +56,8 @@ Please use HDMI cable: fpv cable hdmi, HDMI-compatible,FPV HDMI ffc HDMI Ribbon 
 
 #### Hardware
 
+- See other guide: https://docs-tars-ai.vercel.app/build/bom to compare
+
 - 1 x https://www.aliexpress.com/item/32914198349.html
 
 - 2 x Lightweight Actobotics Servo Horn (H25T Spline) at https://www.servocity.com/25t-lightweight-hub-horn/ or look at .step file
@@ -67,7 +71,7 @@ Please use HDMI cable: fpv cable hdmi, HDMI-compatible,FPV HDMI ffc HDMI Ribbon 
 
 - 10 x Hex M3 20mm, 10 x Hex M3 10mm, 10 x Hex M3 14mm, 10 x Hex M3 30mm at https://www.aliexpress.com/item/1005003184392748.html
 - 1 x Bearing 6x15x5 https://www.aliexpress.com/item/4000909583668.html
-- 1 x Compression Spring 0.5mmx20mmx11mm https://www.aliexpress.com/item/1005005312536098.html
+- 1 x Compression Spring 0.5mmx20mmx11mm https://www.aliexpress.com/item/1005005312536098.html, https://www.amazon.com/uxcell-Stainless-Compression-Spring-Capacity/dp/B09139BWH7
 
 ---
 
