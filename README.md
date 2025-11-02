@@ -6,6 +6,8 @@
 
 - Vercel App: https://docs-tars-ai.vercel.app/build/3d_print
 
+2025+ Updates: https://github.com/TARS-AI-Community/TARS-AI
+
 ![preview](preview.png)
 
 ## Files TARS v3_10 - Fix Case Clip
