@@ -10,9 +10,9 @@
 
 ![preview](preview.png)
 
-## Files TARS v3_10 - Fix Case Clip
+## Files TARS v3_9 - Fix Case Clip
 
-- DOWNLOAD: https://uploadnow.io/f/MPLCGwg | https://fastupload.io/9f3621ef4afe07cc
+- DOWNLOAD: tars_3_v9_original.zip in repository
 
 ![print](print.png)
 
